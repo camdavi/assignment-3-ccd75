@@ -1,0 +1,19 @@
+---
+title: "Our Super Cool Website For Assignment 3"
+author: "Cam"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Our Website:
+
+Authors:
+Cam - <https://github.com/camdavi>
+
+Diana - <https://github.com/dmm442>
+
+![Here is a picture of my grandma having fun](C:\Users\ccd75\Downloads\FB_IMG_1706821883485.jpg)
