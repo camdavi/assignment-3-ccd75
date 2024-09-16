@@ -2,13 +2,18 @@ name: "Website"
 navbar:
   left:
     - text: "Home"
+      icon: fa-solid fa-house
       href: index.html
     - text: "Cam"
+      icon: fa-solid fa-fish
       href: cam.html
     - text: "Diana"
+      icon: fa-solid fa-plant-wilt
       href: diana.html
 output_dir: "."
 output:
   html_document:
-    theme: Yeti
-    
+    theme: yeti
+    highlight: textmate
+    toc: true
+    toc_float: true
